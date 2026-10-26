@@ -23,19 +23,21 @@ Manzili is a comprehensive graduation project (MIS) that bridges the gap between
 
 Manzili was designed and delivered by a 13-member cross-functional team from the Management Information Systems Department, Alexandria University. Members are listed by scope of responsibility.
 
-1. **[Yossef Mohamed El-Sayed Khalil](https://github.com/YossefKhalil)** — Team Lead & Project Orchestrator: directed architecture, delivery, third-party integrations, and all workstreams across the team.
-2. **[Mohamed Abdel-Kader Abd-Rabo](https://github.com/hamoabdelkader72002-hue)** — Lead Backend Developer (.NET): led API design, business logic, and data-layer integration.
-3. **Yousef Mohamed Abdel-Hakem Samk** — Database Architect & Administrator: designed the ERD and schema, wrote the SQL, and deployed the database on Supabase.
-4. **Ali Elsayed Ahmed** · [WhatsApp](https://wa.me/201012274088) — Backend Developer & Documentation Lead: supported backend and database design and authored the complete project documentation.
-5. **Mahmoud Ahmed Mahmoud** — QA Lead: led test planning, execution, and defect tracking.
-6. **Marawan Mahmoud Abdelsalam** — Developer & Business Analyst: contributed to development and business analysis.
-7. **[Fares Haitham Ahmed](https://github.com/fares360)** — Frontend Developer: built responsive interfaces.
-8. **[Yahia Mohamed Shehata](https://github.com/Dinamow)** — UI/UX Designer: designed user flows, wireframes, and interfaces.
-9. **Abdelrhman Mohammed Abdelhamid** — DevOps Engineer (AWS) & Team Trainer: delivered team training and supported AWS deployment.
-10. **Ahmed Elsayed Ahmed** · [Email](mailto:ah0193033@gmail.com) — QA Tester & Business Analysis Support: executed testing and supported requirements analysis.
-11. **Nour Mohamed Esmat** — Business Analyst: gathered and documented business requirements and processes.
-12. **Adham Salah Elsayed** — Business Analyst: contributed to requirements analysis and business documentation.
-13. **[Mahmoud Nagi Nagi](https://github.com/medonagi)** — Business Analyst (formerly Flutter Developer): contributed to business analysis after the mobile scope was revised.
+| # | Team Member | Role | Key Contributions | Contact |
+|---|-------------|------|-------------------|---------|
+| 1 | Yossef Mohamed El-Sayed Khalil | Team Lead & Project Orchestrator | Directed architecture, delivery, third-party integrations, and all workstreams across the team. | [GitHub](https://github.com/YossefKhalil) |
+| 2 | Mohamed Abdel-Kader Abd-Rabo | Lead Backend Developer (.NET) | Led API design, business logic, and data-layer integration. | [GitHub](https://github.com/hamoabdelkader72002-hue) |
+| 3 | Yousef Mohamed Abdel-Hakem Samk | Database Architect & Administrator | Designed the ERD and schema, wrote the SQL, and deployed the database on Supabase. | — |
+| 4 | Ali Elsayed Ahmed | Backend Developer & Documentation Lead | Supported backend and database design; authored the complete project documentation. | [WhatsApp](https://wa.me/201012274088) |
+| 5 | Mahmoud Ahmed Mahmoud | QA Lead | Led test planning, execution, and defect tracking. | — |
+| 6 | Marawan Mahmoud Abdelsalam | Developer & Business Analyst | Contributed to development and business analysis. | — |
+| 7 | Fares Haitham Ahmed | Frontend Developer | Built responsive interfaces. | [GitHub](https://github.com/fares360) |
+| 8 | Yahia Mohamed Shehata | UI/UX Designer | Designed user flows, wireframes, and interfaces. | [GitHub](https://github.com/Dinamow) |
+| 9 | Abdelrhman Mohammed Abdelhamid | DevOps Engineer (AWS) & Team Trainer | Delivered team training and supported AWS deployment. | — |
+| 10 | Ahmed Elsayed Ahmed | QA Tester & Business Analysis Support | Executed testing and supported requirements analysis. | [Email](mailto:ah0193033@gmail.com) |
+| 11 | Nour Mohamed Esmat | Business Analyst | Gathered and documented business requirements and processes. | — |
+| 12 | Adham Salah Elsayed | Business Analyst | Contributed to requirements analysis and business documentation. | — |
+| 13 | Mahmoud Nagi Nagi | Business Analyst (formerly Flutter Developer) | Contributed to business analysis after the mobile scope was revised. | [GitHub](https://github.com/medonagi) |
 
 ## 📁 Repository Structure
 
