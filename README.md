@@ -25,15 +25,15 @@ Manzili was designed and delivered by a 13-member cross-functional team from the
 
 | # | Team Member | Role | Key Contributions |
 |---|-------------|------|-------------------|
-| 1 | [Yossef Mohamed El-Sayed Khalil](https://github.com/YossefKhalil) | Team Lead & Project Orchestrator | Directed architecture, delivery, third-party integrations, and all workstreams across the team. |
+| 1 | [Yossef Mohamed El-Sayed Khalil](https://github.com/YossefKhalil) | Team Lead & Project Orchestrator | Owned architecture and direction, managed third-party strategy, and end-to-end delivery across the team workstreams. |
 | 2 | [Mohamed Abdel-Kader Abd-Rabo](https://github.com/hamoabdelkader72002-hue) | Lead Backend Developer (.NET) | Led API design, business logic, and data-layer integration. |
 | 3 | Yousef Mohamed Abdel-Hakem Samk | Database Architect & Administrator | Designed the ERD and schema, wrote the SQL, and deployed the database on Supabase. |
 | 4 | Ali Elsayed Ahmed | Backend Developer & Documentation Lead | Supported backend and database design; authored the complete project documentation. |
-| 5 | Mahmoud Ahmed Mahmoud | QA Lead | Led test planning, execution, and defect tracking. |
-| 6 | Marawan Mahmoud Abdelsalam | Developer & Business Analyst | Contributed to development and business analysis. |
-| 7 | [Fares Haitham Ahmed](https://github.com/fares360) | Frontend Developer | Built responsive interfaces. |
-| 8 | [Yahia Mohamed Shehata](https://github.com/Dinamow) | UI/UX Designer | Designed user flows, wireframes, and interfaces. |
-| 9 | Abdelrhman Mohammed Abdelhamid | DevOps Engineer (AWS) & Team Trainer | Delivered team training and supported AWS deployment. |
+| 5 | Mahmoud Ahmed Mahmoud | QA Lead | Tested the platform and reported defects. |
+| 6 | Marawan Mahmoud Abdelsalam | Developer & Business Analyst (formerly Flutter Developer) | Contributed to development and business analysis. |
+| 7 | [Fares Haitham Ahmed](https://github.com/fares360) | Frontend Developer | Built responsive interfaces and reusable UI components. |
+| 8 | Yahia Mohamed Shehata | UI/UX Designer | Designed user flows, wireframes, and interfaces. |
+| 9 | [Abdelrhman Mohammed Abdelhamid](https://github.com/Dinamow) | DevOps Engineer (AWS) & Technical Trainer | Delivered technical training and supported AWS deployment. |
 | 10 | [Ahmed Elsayed Ahmed](mailto:ah0193033@gmail.com) | QA Tester & Business Analysis Support | Executed testing and supported requirements analysis. |
 | 11 | Nour Mohamed Esmat | Business Analyst | Gathered and documented business requirements and processes. |
 | 12 | Adham Salah Elsayed | Business Analyst | Contributed to requirements analysis and business documentation. |
