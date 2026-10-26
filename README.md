@@ -25,12 +25,12 @@ Manzili was designed and delivered by a 13-member cross-functional team from the
 
 | # | Team Member | Role | Key Contributions |
 |---|-------------|------|-------------------|
-| 1 | [Yossef Mohamed El-Sayed Khalil](https://github.com/YossefKhalil) | Team Lead & Project Orchestrator | Owned architecture and direction, managed third-party strategy, and end-to-end delivery across the team workstreams. |
+| 1 | [Yossef Mohamed El-Sayed Khalil](https://yossefkhalil.pages.dev/) | Team Lead & Project Orchestrator | Owned architecture and direction, managed third-party strategy, and end-to-end delivery across the team workstreams. |
 | 2 | [Mohamed Abdel-Kader Abd-Rabo](https://github.com/hamoabdelkader72002-hue) | Lead Backend Developer (.NET) | Led API design, business logic, and data-layer integration. |
 | 3 | Yousef Mohamed Abdel-Hakem Samk | Database Architect & Administrator | Designed the ERD and schema, wrote the SQL, and deployed the database on Supabase. |
 | 4 | Ali Elsayed Ahmed | Backend Developer & Documentation Lead | Supported backend and database design; authored the complete project documentation. |
 | 5 | Mahmoud Ahmed Mahmoud | QA Lead | Tested the platform and reported defects. |
-| 6 | Marawan Mahmoud Abdelsalam | Developer & Business Analyst (formerly Flutter Developer) | Contributed to development and business analysis. |
+| 6 | [Marawan Mahmoud Abdelsalam](https://www.linkedin.com/in/marawanelshrif/) | Developer & Business Analyst (formerly Flutter Developer) | Contributed to development and business analysis. |
 | 7 | [Fares Haitham Ahmed](https://github.com/fares360) | Frontend Developer | Built responsive interfaces and reusable UI components. |
 | 8 | Yahia Mohamed Shehata | UI/UX Designer | Designed user flows, wireframes, and interfaces. |
 | 9 | [Abdelrhman Mohammed Abdelhamid](https://github.com/Dinamow) | DevOps Engineer (AWS) & Technical Trainer | Delivered technical training and supported AWS deployment. |
