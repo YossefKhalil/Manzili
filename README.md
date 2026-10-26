@@ -19,6 +19,24 @@
 
 Manzili is a comprehensive graduation project (MIS) that bridges the gap between Egyptian artisans and customers. It provides a platform for sellers to showcase and sell handmade products while offering buyers a seamless shopping experience with secure payments, order tracking, and real-time communication.
 
+## 👥 Team
+
+Manzili was designed and delivered by a 13-member cross-functional team from the Management Information Systems Department, Alexandria University. Members are listed by scope of responsibility.
+
+1. **[Yossef Mohamed El-Sayed Khalil](https://github.com/YossefKhalil)** — Team Lead & Project Orchestrator: directed architecture, delivery, third-party integrations, and all workstreams across the team.
+2. **[Mohamed Abdel-Kader Abd-Rabo](https://github.com/hamoabdelkader72002-hue)** — Lead Backend Developer (.NET): led API design, business logic, and data-layer integration.
+3. **Yousef Mohamed Abdel-Hakem Samk** — Database Architect & Administrator: designed the ERD and schema, wrote the SQL, and deployed the database on Supabase.
+4. **Ali Elsayed Ahmed** · [WhatsApp](https://wa.me/201012274088) — Backend Developer & Documentation Lead: supported backend and database design and authored the complete project documentation.
+5. **Mahmoud Ahmed Mahmoud** — QA Lead: led test planning, execution, and defect tracking.
+6. **Marawan Mahmoud Abdelsalam** — Developer & Business Analyst: contributed to development and business analysis.
+7. **[Fares Haitham Ahmed](https://github.com/fares360)** — Frontend Developer: built responsive interfaces.
+8. **[Yahia Mohamed Shehata](https://github.com/Dinamow)** — UI/UX Designer: designed user flows, wireframes, and interfaces.
+9. **Abdelrhman Mohammed Abdelhamid** — DevOps Engineer (AWS) & Team Trainer: delivered team training and supported AWS deployment.
+10. **Ahmed Elsayed Ahmed** · [Email](mailto:ah0193033@gmail.com) — QA Tester & Business Analysis Support: executed testing and supported requirements analysis.
+11. **Nour Mohamed Esmat** — Business Analyst: gathered and documented business requirements and processes.
+12. **Adham Salah Elsayed** — Business Analyst: contributed to requirements analysis and business documentation.
+13. **[Mahmoud Nagi Nagi](https://github.com/medonagi)** — Business Analyst (formerly Flutter Developer): contributed to business analysis after the mobile scope was revised.
+
 ## 📁 Repository Structure
 
 ```text
